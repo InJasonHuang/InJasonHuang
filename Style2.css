@@ -1,0 +1,46 @@
+body {
+  background: #1a1aff ;
+  text-align:center;
+  background: #ffc0cb;
+}
+p {
+  color: #f84d66;
+  font-size: 25px;
+  font-family: monospace;
+  text-align: left;
+}
+h1 {
+  font-size:100px;
+  color:#C585B3;
+  text-align: center;
+  font-family: cursive;
+}
+h2 {
+  color:rgb(0,0,0);
+  font-family: monospace;
+  text-align: center;
+  font-size: 35px;
+}
+h3{
+  color:saddlebrown;
+  text-align: center;
+  font-size: 30px;
+}
+h4{
+	color: silver;
+	font-family: dotted;
+	font-size: 34px;
+}
+li{
+	color: gold;
+	font-size: 24px;
+}
+img{
+  height: 150px;
+  float:left;
+  margin :34px;
+  border-width: 4px;
+}
+video{
+	float:left;
+}
